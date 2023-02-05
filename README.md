@@ -8,7 +8,8 @@ I'm a PhD student at the University of Florida. My research lies at the intersec
 - 😄 Pronouns: [he/him/his](https://en.pronouns.page/he)
 
 ## Research
-How to leverage large language models and transfer learning techniques to bootstrap dialogue systems for **_understudied dialogue paradigms_ such as negotiation, collaboration, and tutoring**?
+In my research, I'm interested in answering the following question:
+> How to leverage large language models and transfer learning techniques to bootstrap dialogue systems for **_understudied dialogue paradigms_ such as negotiation, collaboration, and tutoring**?
 
 
 ## Open-Source
