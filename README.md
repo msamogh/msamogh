@@ -36,6 +36,7 @@ How to leverage large language models and transfer learning techniques to bootst
 ### Contributions
 - **[Rasa](https://github.com/rasahq/rasa/pulls?q=is%3Apr+author%3Amsamogh+is%3Aclosed+)**
 - **[TensorFlow](https://github.com/tensorflow/tensorflow/pulls?q=is%3Apr+author%3Amsamogh+is%3Aclosed+)**
+- **[MSCKF-VIO](https://github.com/KumarRobotics/msckf_vio/pull/72)**
 
 ### 🤝🏻 Connect with Me
 <p align="left">
