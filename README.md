@@ -2,14 +2,15 @@
 
 I'm a PhD student at the University of Florida. My research lies at the intersection of **Dialogue** and **HCI**. I also like to build and contribute to **open-source** software tools and libraries for ML engineers and researchers.
 
-- 🌱 I’m actively looking for Research Internship openings for Summer 2023.
+- 🌱 I’m actively looking for Research Internship openings for Summer 2024.
 - 💬 Ask me about anything, I am happy to help. I am very much open to new research ideas and collaborations.
 - 📫 You can reach out to me at [msamogh@gmail.com](msamogh@gmail.com) (more social links at the bottom).
 - 😄 Pronouns: [he/him/his](https://en.pronouns.page/he)
 
 ## Research
-In my research, I'm interested in answering the following question:
-> How to leverage large language models and transfer learning techniques to bootstrap dialogue systems for **_understudied dialogue paradigms_ such as negotiation, collaboration, and tutoring**?
+Commercially-motivated "task-oriented" and "chitchat" dialogue systems such as virtual assistants and customer service bots are all around us and are more powerful than ever thanks to LLMs. However, advances in LLM-based dialogue systems are yet to translate into educational dialogue, negotiation, collaboration, and so on. I collectively term such paradigms as the "Long Tail" of dialogue systems.
+
+My research interests touch upon ML, NLP, and HCI issues surrounding the authorship, bootstrapping, crowdsourcing, synthetic data generation, and evaluation of these Long Tail Dialogue Systems.
 
 
 ## Open-Source
