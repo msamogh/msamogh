@@ -1,4 +1,4 @@
-# Hi, I'm Amogh Mannekote! 👋
+# Namaskaara, I'm Amogh Mannekote! 🙏
 
 I'm a PhD student at the University of Florida. My research lies at the intersection of **Dialogue** and **HCI**. I also like to build and contribute to **open-source** software tools and libraries for ML engineers and researchers.
 
