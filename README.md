@@ -16,7 +16,7 @@ My research interests touch upon ML, NLP, and HCI issues surrounding the authors
 <!-- I have developed a multiple open-source tools and libraries for ML practitioners. -->
 
 
-<p align="center">
+<!--<p align="center">
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=msamogh&show_icons=true&theme=swift"
@@ -29,7 +29,7 @@ My research interests touch upon ML, NLP, and HCI issues surrounding the authors
 <img src="https://github-readme-stats.vercel.app/api?username=msamogh&show_icons=true&theme=solarized-light" />
 </picture>
   
-</p>
+</p>-->
 
 - **[LLM4Qual](https://github.com/msamogh/llm4qual)**: LLM4Qual is an open-source framework that lets you combine HuggingFace EvaluationSuite with LangChain's LLM capabilities for qualitative research.
 - **[nonechucks](https://github.com/msamogh/nonechucks)**: nonechucks is a library that provides wrappers for PyTorch's datasets, samplers, and transforms to allow for dropping unwanted or invalid samples dynamically.
