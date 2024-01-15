@@ -1,6 +1,6 @@
 # Namaskaara, I'm Amogh Mannekote! 🙏
 
-I'm a PhD student at the Department of Computer Science in University of Florida. My research lies at the intersection of **Dialogue** and **HCI**. I also like to build and contribute to **open-source** software tools and libraries for ML engineers and researchers.
+I'm a PhD student at the Department of Computer Science in University of Florida. My research lies at the intersection of **Dialogue Systems**, **Education,** and **HCI**. I also like to build and contribute to **open-source** software tools and libraries for ML engineers and researchers.
 
 - 🌱 I’m actively looking for Research Internship openings for Summer 2024.
 - 💬 Ask me about anything, I am happy to help. I am very much open to new research ideas and collaborations.
