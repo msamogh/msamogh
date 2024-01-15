@@ -5,7 +5,6 @@ I'm a PhD student at the Department of Computer Science in University of Florida
 - 🌱 I’m actively looking for Research Internship openings for Summer 2024.
 - 💬 Ask me about anything, I am happy to help. I am very much open to new research ideas and collaborations.
 - 📫 You can reach out to me at [msamogh@gmail.com](msamogh@gmail.com) (more social links at the bottom).
-- 😄 Pronouns: [he/him/his](https://en.pronouns.page/he)
 
 ## Research
 Commercially-motivated "task-oriented" and "chitchat" dialogue systems such as virtual assistants and customer service bots are all around us and are more powerful than ever thanks to LLMs. However, advances in LLM-based dialogue systems are yet to translate into educational dialogue, negotiation, collaboration, and so on. I collectively term such paradigms as the "Long Tail" of dialogue systems.
