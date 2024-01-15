@@ -31,6 +31,7 @@ My research interests touch upon ML, NLP, and HCI issues surrounding the authors
 </picture>
   
 </p>
+
 - **[LLM4Qual](https://github.com/msamogh/llm4qual)**: LLM4Qual is an open-source framework that lets you combine HuggingFace EvaluationSuite with LangChain's LLM capabilities for qualitative research.
 - **[nonechucks](https://github.com/msamogh/nonechucks)**: nonechucks is a library that provides wrappers for PyTorch's datasets, samplers, and transforms to allow for dropping unwanted or invalid samples dynamically.
 - **[Rasa Frames](https://github.com/msamogh/rasa-frames)**: Most dialogue state trackers only support _one value per slot_. Rasa Frames is a proof-of-concept fork of Rasa Core that supports multiple _frames_ that allows for multiple values per slot. This is helpful, for example, when the user is comparing two flights.
