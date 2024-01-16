@@ -35,10 +35,8 @@ My research interests touch upon ML, NLP, and HCI issues surrounding the authors
 - **[nonechucks](https://github.com/msamogh/nonechucks)**: nonechucks is a library that provides wrappers for PyTorch's datasets, samplers, and transforms to allow for dropping unwanted or invalid samples dynamically.
 - **[Rasa Frames](https://github.com/msamogh/rasa-frames)**: Most dialogue state trackers only support _one value per slot_. Rasa Frames is a proof-of-concept fork of Rasa Core that supports multiple _frames_ that allows for multiple values per slot. This is helpful, for example, when the user is comparing two flights.
 
-### Contributions
-- **[Rasa](https://github.com/rasahq/rasa/pulls?q=is%3Apr+author%3Amsamogh+is%3Aclosed+)**
-- **[TensorFlow](https://github.com/tensorflow/tensorflow/pulls?q=is%3Apr+author%3Amsamogh+is%3Aclosed+)**
-- **[MSCKF-VIO](https://github.com/KumarRobotics/msckf_vio/pull/72)**
+### Other Contributions
+**[Rasa](https://github.com/rasahq/rasa/pulls?q=is%3Apr+author%3Amsamogh+is%3Aclosed+)** | **[TensorFlow](https://github.com/tensorflow/tensorflow/pulls?q=is%3Apr+author%3Amsamogh+is%3Aclosed+)** | **[MSCKF-VIO](https://github.com/KumarRobotics/msckf_vio/pull/72)**
 
 ### 🤝🏻 Connect with Me
 <p align="left">
