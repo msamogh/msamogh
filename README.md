@@ -2,7 +2,6 @@
 
 I'm a PhD student at the Department of Computer Science in University of Florida. I am jointly advised by [Kristy Elizabeth Boyer](https://learndialogue.org/person.php?id=keboyer) and [Bonnie Dorr](https://nlp.cise.ufl.edu/bonniejdorr). My research lies at the intersection of **Dialogue Systems**, **Education,** and **HCI**. I also like to build and contribute to **open-source** software tools and libraries for ML engineers and researchers. I am affiliated with [LearnDialogue](https://learndialogue.org/) as well as the [NLP group @ UF](https://nlp.cise.ufl.edu/).
 
-- 🌱 I’m actively looking for Research Internship openings for Summer 2024.
 - 💬 Ask me about anything, I am happy to help. I am very much open to new research ideas and collaborations.
 - 📫 You can reach out to me at [msamogh@gmail.com](msamogh@gmail.com) (more social links at the bottom).
 
