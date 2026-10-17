@@ -1,48 +1,37 @@
-# Namaskaara, I'm Amogh Mannekote! 🙏
+# Amogh Mannekote
 
-I'm a PhD student at the Department of Computer Science in University of Florida. I am jointly advised by [Kristy Elizabeth Boyer](https://learndialogue.org/person.php?id=keboyer) and [Bonnie Dorr](https://nlp.cise.ufl.edu/bonniejdorr). My research lies at the intersection of **Dialogue Systems**, **Education,** and **HCI**. I also like to build and contribute to **open-source** software tools and libraries for ML engineers and researchers. I am affiliated with [LearnDialogue](https://learndialogue.org/) as well as the [NLP group @ UF](https://nlp.cise.ufl.edu/).
+Applied Research Scientist at Openstream.ai · LLM behavioral simulation · [msamogh.github.io](https://msamogh.github.io)
 
-- 💬 Ask me about anything, I am happy to help. I am very much open to new research ideas and collaborations.
-- 📫 You can reach out to me at [msamogh@gmail.com](msamogh@gmail.com).
+I build language-model simulations of human behavior that hold up at the population level, so that researchers can run studies on simulated people when recruiting real ones is the bottleneck. My PhD in Computer Science at the University of Florida, advised by Kristy Boyer and Bonnie Dorr, developed generative agent-based models of learners and calibrated them to population-level behavioral targets through test-time compute allocation. My current work trains models against those behavioral targets directly with reinforcement learning.
 
-## Research
-Commercially-motivated "task-oriented" and "chitchat" dialogue systems such as virtual assistants and customer service bots are all around us and are more powerful than ever thanks to LLMs. However, advances in LLM-based dialogue systems are yet to translate into educational dialogue, negotiation, collaboration, and so on. I collectively term such paradigms as the "Long Tail" of dialogue systems.
+## Selected research
 
-My research interests touch upon ML, NLP, and HCI issues surrounding the authorship, bootstrapping, crowdsourcing, synthetic data generation, and evaluation of these Long Tail Dialogue Systems.
+| Venue | Paper | Artifacts |
+|---|---|---|
+| COLM 2025 | Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust | [paper](https://arxiv.org/abs/2507.02197) |
+| AAAI 2025 | Can LLMs Reliably Simulate Human Learner Actions? A Simulation Authoring Framework for Open-Ended Learning Environments | [paper](https://arxiv.org/abs/2410.02110) · [code](https://github.com/msamogh/hypmix) |
+| COLING 2025 | IndirectRequests: Making Task-Oriented Dialogue Datasets More Natural by Synthetically Generating Indirect User Requests | [paper](https://arxiv.org/abs/2406.07794) · [dataset](https://huggingface.co/datasets/msamogh/indirect-requests) |
+| Frontiers in AI 2024 | Large Language Models for Whole-Learner Support: Opportunities and Challenges | [paper](https://doi.org/10.3389/frai.2024.1460364) |
 
+The full list of twelve publications is on [my website](https://msamogh.github.io/#publications).
 
-## Open-Source
-<!-- I have developed a multiple open-source tools and libraries for ML practitioners. -->
+## Research code and data
 
+- **[hypmix](https://github.com/msamogh/hypmix)** · authoring and calibration framework for LLM-simulated learners (AAAI 2025)
+- **[GPT-NegoChat-Corpus](https://github.com/msamogh/GPT-NegoChat-Corpus)** · multi-issue negotiation dialogues with agreement-state annotations
+- **[continual-learning-nlu](https://github.com/msamogh/continual-learning-nlu)** · experiments on domain ordering for continually trained intent classifiers
 
-<!--<p align="center">
-  <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=msamogh&show_icons=true&theme=swift"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=msamogh&show_icons=true"
-  media="(prefers-color-scheme: solarized-light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=msamogh&show_icons=true&theme=solarized-light" />
-</picture>
-  
-</p>-->
+## Open source
 
-- **[LLM4Qual](https://github.com/msamogh/llm4qual)**: LLM4Qual is an open-source framework that lets you combine HuggingFace EvaluationSuite with LangChain's LLM capabilities for qualitative research.
-- **[nonechucks](https://github.com/msamogh/nonechucks)**: nonechucks is a library that provides wrappers for PyTorch's datasets, samplers, and transforms to allow for dropping unwanted or invalid samples dynamically.
-- **[Rasa Frames](https://github.com/msamogh/rasa-frames)**: Most dialogue state trackers only support _one value per slot_. Rasa Frames is a proof-of-concept fork of Rasa Core that supports multiple _frames_ that allows for multiple values per slot. This is helpful, for example, when the user is comparing two flights.
+- **[nonechucks](https://github.com/msamogh/nonechucks)** · PyTorch datasets, samplers, and transforms that drop invalid samples on the fly
+- **[llm4qual](https://github.com/msamogh/llm4qual)** · Hugging Face and LangChain tooling that emulates human annotation workflows for qualitative research
+- **[rasa-frames](https://github.com/msamogh/rasa-frames)** · a fork of Rasa Core whose dialogue state tracker holds multiple frames, so a slot can carry several values at once
+- Contributions to [Rasa](https://github.com/rasahq/rasa/pulls?q=is%3Apr+author%3Amsamogh+is%3Aclosed), [TensorFlow](https://github.com/tensorflow/tensorflow/pulls?q=is%3Apr+author%3Amsamogh+is%3Aclosed), and [MSCKF-VIO](https://github.com/KumarRobotics/msckf_vio/pull/72)
 
-### Other Contributions
-**[Rasa](https://github.com/rasahq/rasa/pulls?q=is%3Apr+author%3Amsamogh+is%3Aclosed+)** | **[TensorFlow](https://github.com/tensorflow/tensorflow/pulls?q=is%3Apr+author%3Amsamogh+is%3Aclosed+)** | **[MSCKF-VIO](https://github.com/KumarRobotics/msckf_vio/pull/72)**
+## Personal software
 
-### 🤝🏻 Connect with Me
-<p align="left">
-<a href="mailto:msamogh@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/msamogh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<!-- <a href="https://leetcode.com/bolt_coder"><img src="https://img.shields.io/badge/leetcode-FFA116?&style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode"/></a>&nbsp;
-<a href="https://www.codechef.com/users/bolt_coder"><img src="https://img.shields.io/badge/codechef-5B4638?&style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef"/></a>&nbsp; -->
-<!-- <a href="https://twitter.com/msamogh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp; -->
-<!-- <a href="https://sigmoid.social/@stancosmos"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /></a>&nbsp; -->
-</p>
+Outside research I design and build my own tools with coding agents, among them a focus timer with a cloud-synced goal tree, browser extensions that rewrite feeds before I see them, and [delurk-hn](https://github.com/msamogh/delurk-hn), which hides Hacker News scores and threads until you have written your own take. The suite is described at [msamogh.github.io/software](https://msamogh.github.io/software/).
+
+## Contact
+
+msamogh [at] gmail [dot] com · [LinkedIn](https://www.linkedin.com/in/msamogh) · [Semantic Scholar](https://www.semanticscholar.org/author/146123222) · [Hugging Face](https://huggingface.co/msamogh)
